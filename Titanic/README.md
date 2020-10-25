@@ -16,5 +16,3 @@ It’s your job to predict these outcomes.
 
 Using the patterns you find in the train.csv data, predict whether the other 418 passengers on board (found in test.csv) survived.
 
-Check out the “Data” tab to explore the datasets even further. Once you feel you’ve created a competitive model, 
-submit it to Kaggle to see where your model stands on our leaderboard against other Kagglers.
