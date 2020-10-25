@@ -1,4 +1,4 @@
-## HAm-SPam Mail  ##
+## HAm-SPam Mail  
 
 The SMS Spam Collection is a set of SMS tagged messages that have 
 been collected for SMS Spam research. It contains one set of SMS messages 
