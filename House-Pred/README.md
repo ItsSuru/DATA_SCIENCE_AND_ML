@@ -1,6 +1,6 @@
 ## HOUSE PRICE PRED
 
-<img align="center" src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png" alt="Coder GIF" width="700" height="300">
+<img align="center" src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png" alt="Coder GIF" width="900" height="200">
 
 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling 
