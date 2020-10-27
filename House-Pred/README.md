@@ -1,6 +1,7 @@
 ## HOUSE PRICE PRED
 
-https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png
+<img align="center" src="https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png" alt="Coder GIF" width="700" height="300">
+
 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling 
 or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences 
